@@ -1,4 +1,3 @@
-
 #pylint: disable-msg=W0312
 #pylint: disable-msg=C0301
 #pylint: disable-msg=C0111
